@@ -1,0 +1,13 @@
+D:\FPTAPTECH\SEM3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\FPTAPTECH\SEM3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\FPTAPTECH\SEM3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\FPTAPTECH\SEM3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\FPTAPTECH\SEM3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\FPTAPTECH\SEM3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\FPTAPTECH\SEM3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+D:\FPTAPTECH\SEM3\ConsoleApp3\bin\Debug\HtmlAgilityPack.dll
+D:\FPTAPTECH\SEM3\ConsoleApp3\bin\Debug\Newtonsoft.Json.dll
+D:\FPTAPTECH\SEM3\ConsoleApp3\bin\Debug\HtmlAgilityPack.pdb
+D:\FPTAPTECH\SEM3\ConsoleApp3\bin\Debug\HtmlAgilityPack.xml
+D:\FPTAPTECH\SEM3\ConsoleApp3\bin\Debug\Newtonsoft.Json.xml
+D:\FPTAPTECH\SEM3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CopyComplete
